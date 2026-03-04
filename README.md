@@ -11,13 +11,13 @@ Principal Investigator:
 Kayla X. Nguyen
 
 Graduate Students:
-Malik Hollis
-Helicity Schnee
-Michael Dushkoff
+Malik Hollis,
+Helicity Schnee,
+Michael Dushkoff,
 Isabel Burgos
 
 Undergraduate Students:
-Shyla Couredi
+Shyla Couredi,
 Melanie Wiegand
 
 <!--
